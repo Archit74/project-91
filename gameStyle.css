@@ -1,0 +1,47 @@
+.body_background{
+    background-image: url("Guess\ the\ word.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.input_player1{
+    margin-top: 180px;
+}
+#first{
+font-size: 50px;
+font-family: cursive;
+}
+#button_login{
+color: black;
+background-color: blue;
+width: 150px;
+}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#number1
+{
+	width: 60%;
+}
+#number2
+{
+	width: 60%;
+}
+#number1_display
+{
+	letter-spacing: 5px;
+}
+#number2_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
